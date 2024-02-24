@@ -10,3 +10,13 @@
  # Challenges
 
 </p>
+
+CGI - Use AI to build an innovative solution for offshore travel management! 
+
+Core29 - Design an app to track and manage corporate carbon footprints using the data provided
+
+Global E&C - Buying a car 
+
+RGU School of Computing - Duthie Park App
+
+Note that you may struggle to view powerpoint files on github online but you will be able to download these for viewing.
