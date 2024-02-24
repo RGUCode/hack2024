@@ -11,7 +11,7 @@
 
 </p>
 
-CGI - Use AI to build an innovative solution for offshore travel management! 
+CGI - Use AI to build an innovative solution for offshore travel management! See VantoagePOB Travel Data Excel file for your dataset
 
 Core29 - Design an app to track and manage corporate carbon footprints using the data provided
 
