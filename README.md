@@ -24,3 +24,6 @@ Global E&C - Buying a car
 RGU School of Computing - Duthie Park App
 
 Note that you may struggle to view powerpoint files on github online but you will be able to download these for viewing.
+
+#Api Workshop Files
+https://github.com/wildfireone/api-workshop
